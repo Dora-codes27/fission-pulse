@@ -1,5 +1,7 @@
 # Fission Pulse
 
+![Fission Pulse dashboard](docs/dashboard.png)
+
 An independent tracker for [Fission](https://fission.xyz), the liquidity layer for tokenized funds.
 
 It shows:
@@ -34,5 +36,7 @@ Fission buys fund tokens from holders and holds them until the fund's own redemp
 * Holdings go down: Fission redeemed those tokens back to the fund
 
 Changes under $1,000 are ignored. Some funds share one pool, so their numbers are counted once.
+
+A short brief on what this is and what it shows: [docs/Fission_Pulse_Brief.pdf](docs/Fission_Pulse_Brief.pdf)
 
 Not affiliated with Fission Labs. Not investment advice.
