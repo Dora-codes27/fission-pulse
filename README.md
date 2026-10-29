@@ -37,6 +37,6 @@ Fission buys fund tokens from holders and holds them until the fund's own redemp
 
 Changes under $1,000 are ignored. Some funds share one pool, so their numbers are counted once.
 
-A short brief on what this is and what it shows: [docs/Fission_Pulse_Brief.pdf](docs/Fission_Pulse_Brief.pdf)
+A short overview of what this is, why it exists and how it works: [docs/Fission_Pulse_Overview.pdf](docs/Fission_Pulse_Overview.pdf)
 
 Not affiliated with Fission Labs. Not investment advice.
